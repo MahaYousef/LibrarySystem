@@ -1,0 +1,27 @@
+Category: Romance
+Book: Pride and Prejudice | Jane Austen | Classic 19th century romance | 0
+Book: The Notebook | Nicholas Sparks | Modern love story | 0
+Book: Romeo and Juliet | William Shakespeare | Tragic love story | 0
+Book: Twilight | Stephenie Meyer | Vampire romance series | 0
+Book: Me Before You | Jojo Moyes | Emotional romantic novel | 0
+
+Category: Science
+Book: A Brief History of Time | Stephen Hawking | Explaining universe concepts | 0
+Book: The Selfish Gene | Richard Dawkins | Evolution and genetics | 0
+Book: Cosmos | Carl Sagan | Journey through the universe | 0
+Book: The Gene | Siddhartha Mukherjee | Science of heredity | 0
+Book: Astrophysics for People in a Hurry | Neil deGrasse Tyson | Quick guide to astrophysics | 0
+
+Category: History
+Book: Sapiens | Yuval Noah Harari | History of humankind | 0
+Book: Guns, Germs, and Steel | Jared Diamond | Societal development analysis | 0
+Book: The Diary of Anne Frank | Anne Frank | World War II diary | 0
+Book: 1776 | David McCullough | American Revolution history | 0
+Book: Team of Rivals | Doris Kearns Goodwin | Abraham Lincoln leadership | 0
+
+Category: Fantasy
+Book: Harry Potter and the Sorcerer's Stone | J.K. Rowling | Wizarding adventures | 0
+Book: The Hobbit | J.R.R. Tolkien | Journey to the Lonely Mountain | 0
+Book: The Name of the Wind | Patrick Rothfuss | Magical epic story | 0
+Book: A Game of Thrones | George R.R. Martin | Political intrigue in fantasy world | 0
+Book: Eragon | Christopher Paolini | Dragon rider tale | 0
